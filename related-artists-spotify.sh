@@ -1,5 +1,8 @@
 #!/bin/sh
 # Generate a graph of your favourite bands, using data from Spotify.
+#
+# Dependencies: curl, jq, graphviz
+#
 
 set -e
 
